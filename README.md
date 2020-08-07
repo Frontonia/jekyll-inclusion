@@ -9,7 +9,7 @@ Check out [quick demo](http://website-templates.github.io/jekyll-inclusion/) of 
 
 ---
 
-##Contents
+## Contents
 * [Requirements](#requirements)
 * [Structure](#structure)
 * [Development and blogging](#development-and-blogging)
